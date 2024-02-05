@@ -1,1 +1,1 @@
-Exercícios desenvolvidos para a disciplina de LLM do meu mestrado em engenharia da computação da UFRJ
+Exercícios desenvolvidos para a disciplina de Busca e Mineração de texto do meu mestrado em engenharia da computação da UFRJ
